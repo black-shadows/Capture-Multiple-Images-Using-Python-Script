@@ -1,0 +1,10 @@
+1) Please run 
+   python capture.py
+   from terminal or power shell window
+
+2) This script will run for about 20 seconds
+   Try to move your face smoothly from left to right and botton to up very slowly
+
+3) All images will be saved in images folder
+   Please do not delete this
+   We will collect images from pendrive from you
